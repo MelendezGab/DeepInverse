@@ -7,4 +7,4 @@ This repository contains some re-implementations of **DeepInverse** network usin
 Experiments were tested using the next MATLAB add-ons:
 
 - Deep Learning Toolbox (14.4)
-- Parallel mputing Toolbox (7.6)
+- Parallel Computing Toolbox (7.6)
